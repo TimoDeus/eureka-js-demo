@@ -1,0 +1,15 @@
+{
+  "name": "eureka-js-demo",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "client": "node client.js",
+    "searcher": "node searcher.js"
+  },
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "eureka-js-client": "^4.4.1",
+    "express": "~4.16.0",
+    "request": "latest"
+  }
+}
